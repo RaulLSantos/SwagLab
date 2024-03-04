@@ -4,7 +4,7 @@ import time
 from selenium.common.exceptions import NoSuchElementException 
 
 class SwagLab:
-    def __init__(self):
+    def __init__(self): 
         
         # Link do site
         self.site_link = "https://www.saucedemo.com/inventory.html"
